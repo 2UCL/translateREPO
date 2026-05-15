@@ -19,13 +19,18 @@ R.E.P.O.向け 非公式の日本語化パッチ
 ![](/img/path0.png)
 
 1. エクスプローラーが開くので、[REPO_Data] → [StreamingAssets] → [Localizations] の順にフォルダを開く
+
 ![](/img/path1.png)
-↓
+
+　↓
+
 ![](/img/path2.png)
-↓
+
+　↓
+
 ![](/img/path3.png)
 
-1. 開いたフォルダの中に、2.で展開した `ja` フォルダの中身 (readmeはなくてもOK) を移動する
+5. 開いたフォルダの中に、2.で展開した `ja` フォルダの中身 (readmeはなくてもOK) を移動する
 ![](/img/path4.png)
 
 1. 完了

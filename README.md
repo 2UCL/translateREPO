@@ -1,7 +1,9 @@
-# translateREPO
-R.E.P.O.向け 非公式の日本語化パッチ
+# Translate of R.E.P.O. (ja-jp)
+Steamにて公開されているゲーム [R.E.P.O.](https://store.steampowered.com/app/3241660/) の、日本語翻訳パッチです(非公式)。
 
-## TL;DR;
+MOD不要で導入できます。
+
+## TL;DR
 (いそいでいる人向け)
 ```
 (R.E.P.O.のインストール先)\REPO_Data\StreamingAssets\Localizations\

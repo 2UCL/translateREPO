@@ -58,14 +58,14 @@ TUTORIAL.TRUCK.FOCUS_TEXT	Get into the truck and send a message!
 TUTORIAL.TRUCK.DUMMY_TEXT	Walk into the truck, grab and hold the message area on the truck screen with [grab] to send a message!
 TUTORIAL.HEALING.TEXT	Share your health with other players by grabbing their necks!
 TUTORIAL.REVIVING.TEXT	Revive other players by extracting their heads!
-TUTORIAL.CHARGING_STATION.TEXT	Buy <b><u>POWER CRYSTALS</u></b> for the <b><u>CHARGING STATION</u></b> to recharge and repair your gear!
+TUTORIAL.CHARGING_STATION.TEXT	Buy <b><u>ENERGY CRYSTALS</u></b> for the <b><u>CHARGING STATION</u></b> to recharge and repair your gear!
 TUTORIAL.ONLY_ONE_EXTRACTION.TEXT	Only one <b><u>EXTRACTION POINT</u></b> can be active at a time, find the current one using your map!
 TUTORIAL.CHAT.TEXT	Press [chat] to open the chat! It's fun!
 TUTORIAL.FINAL_EXTRACTION.TEXT	Time to leave, the truck heals you and revives carried player heads!
 TUTORIAL.MULTIPLE_EXTRACTIONS.TEXT	This level has multiple <b><u>EXTRACTION POINTS</u></b>, you must clear them all to leave!
 TUTORIAL.SHOP.TEXT	This is the <b><u>SHOP</u></b>, extract items to purchase. No harm lasts here!
 TUTORIAL.EXPRESSIONS.TEXT	Use [expression1]/[expression2]/[expression3]/[expression4]/[expression5]/[expression6] to make expressions. You can even mix!
-TUTORIAL.OVERCHARGE_1.TEXT	Grabbing an enemy will now cause overcharge, when full you get blasted.
+TUTORIAL.OVERCHARGE_1.TEXT	Grabbing a monster will now cause overcharge, when full you get blasted.
 TUTORIAL.OVERCHARGE_2.TEXT	Multiple people will dampen the overcharge effect.
 TUTORIAL.HEAD_SPECTATE_1.TEXT	While dead your head charges, use that charge to briefly possess your head.
 TUTORIAL.HEAD_SPECTATE_2.TEXT	While possessing your head, hold [jump] to jump. Hold to jump higher at a greater cost.
